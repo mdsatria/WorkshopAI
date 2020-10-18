@@ -11,6 +11,7 @@ Ini adalah repositori materi Workshop AI yang diselenggarakan di ITB STIKOM Bali
 - [Table of Contents](#table-of-contents)
 - [Requirement](#requirement)
 - [Guide](#guide)
+- [Workshop Material](#workshop-material)
 - [Recorded Session](#recorded-session)
 
 ## Requirement
@@ -25,11 +26,15 @@ Untuk dapat membuat app sesuai dengan workshop ini, berikut hal yang perlu diper
 
 ## Guide
 
-1. Panduan instalasi requirement 1 dapat dilihat pada link <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Instalasi%20Python.pdf">ini.</a>
-2. Panduan instalasi requirement 6 dapat dilihat pada link <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Microsoft%20Azure.pdf">ini.</a>
-3. Panduan dasar penggunaan bahasa Python dapat dilihat pada link <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Bahasa%20Python.ipynb">ini.</a>
+1. Panduan instalasi requirement 1 dapat dilihat pada <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Instalasi%20Python.pdf">link ini.</a>
+2. Panduan instalasi requirement 6 dapat dilihat pada <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Microsoft%20Azure.pdf">link ini.</a>
+3. Panduan dasar penggunaan bahasa Python dapat dilihat pada <a href="https://github.com/mdsatria/WorkshopAI/blob/master/Panduan/Panduan%20Bahasa%20Python.ipynb">link ini.</a>
 
+## Workshop Material
 
+1. Materi Workshop AI-Day 1 dapat diakses di<a href="https://github.com/mdsatria/WorkshopAI/tree/master/Day%201"> link ini.</a>
+2. Materi Workshop AI-Day 2 dapat diakses di<a href="https://github.com/mdsatria/WorkshopAI/tree/master/Day%202"> link ini.</a>
+3. Materi Workshop AI-Day 3 dapat diakses di<a href="https://github.com/mdsatria/WorkshopAI/tree/master/Day%203"> link ini.</a>
 ## Recorded Session
 
 Untuk dapat mengakses rekaman setiap sesi, diperlukan login akun Office 365.

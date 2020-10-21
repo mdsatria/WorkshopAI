@@ -41,4 +41,5 @@ Untuk dapat mengakses rekaman setiap sesi, diperlukan login akun Office 365.
 
 1. Workshop AI- Day 1: <a href="https://web.microsoftstream.com/video/ff6305f0-e613-49a2-a361-5400f9af42ea">Teori dan konfigurasi tools machine learning.</a>
 2. Workshop AI- Day 2: <a href="https://web.microsoftstream.com/video/ecebc8c8-7f8c-4fa6-b3be-60885ba09666">Data processing dan model training.</a>
-3. Workshop AI- Day 3: Flask web app, version control dan cloud deploymnet. (*akan dipost tanggal 21-10-2020*)
+3. Workshop AI- Day 3: <a href="https://web.microsoftstream.com/video/f1504d05-04d9-468a-a725-bcabbd7d560f">Flask web app, version control dan cloud deployment.</a>
+
